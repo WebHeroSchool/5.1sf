@@ -3,3 +3,17 @@
   width: 350px;
   margin-bottom: 20px;
 }
+
+.header__flag {
+  text-align: center;
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
